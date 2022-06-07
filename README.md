@@ -18,3 +18,9 @@ git add ______
 
 git log
 //Let's you see the changes made to the current working directory 
+
+git remote -v 
+//displays the URL of the repository 
+
+git push ______
+//By default, will push your commits to the main remote branch
