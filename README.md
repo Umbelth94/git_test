@@ -9,6 +9,7 @@ git clone (Link from git)
 
 git commit -m "Insert text in quotes to help keep track of notes"
 //commits whatever is in the staging area, and -m modifier lets you type in notes to keep track of changes
+//the -m is a message flag modifier to avoid having to accidentally open Vim
 
 git status
 //Checks to see what is in staging area 
