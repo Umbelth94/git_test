@@ -24,4 +24,7 @@ git remote -v
 //displays the URL of the repository 
 
 git push ______
-//By default, will push your commits to the main remote branch
+//By default, SHOULD push your commits to the local branch
+
+git push -u origin 
+//SHOULD push it to the remote branch
